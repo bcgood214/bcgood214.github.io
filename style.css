@@ -93,7 +93,7 @@ h4 {
 
 #article-one {
 	background: grey;
-	background: linear-gradient(grey, DarkGrey);
+	background: linear-gradient(grey, white);
 	min-height: 440px;
 	padding: 0;
 	margin: 0;
