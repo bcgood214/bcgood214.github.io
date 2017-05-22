@@ -97,6 +97,7 @@ h4 {
 	min-height: 440px;
 	padding: 0;
 	margin: 0;
+	border-top: solid 2px blue;
 }
 
 #article-one p {
@@ -112,6 +113,7 @@ h4 {
 }
 
 #article-two {
+	border-top: solid 2px red;
 	background: #004A88;
 }
 
@@ -141,6 +143,7 @@ h4 {
 }
 
 #footer {
+	border-top: solid 2px white;
 	background: blue;
 	background: linear-gradient(DarkBlue, blue);
 }
