@@ -1,6 +1,7 @@
 html, body {
 	margin: 0;
 	background: blue;
+	overflow-x: hidden;
 }
 
 h1 {
@@ -45,6 +46,7 @@ h4 {
 #header-container {
 	margin: auto;
 	max-width: 1400px;
+	padding-top: 20px;
 }
 
 #nav {
@@ -53,7 +55,8 @@ h4 {
 	margin: 0;
 	padding: 0;
 	float: right;
-	margin-bottom: 100px;
+	margin-top: 20px;
+	margin-bottom: 200px;
 	width: 100%;
 }
 
@@ -70,7 +73,7 @@ h4 {
 	background: red;
 	background: radial-gradient(red, #8B0000);
 	cursor: pointer;
-	color: white;
+	color: #FFFFFF;
 	outline: none;
 	font-family: open sans;
 	font-size: 20pt;
@@ -105,6 +108,7 @@ h4 {
 	margin: auto;
 	max-width: 1400px;
 	padding-top: 64px;
+	padding-bottom: 64px;
 }
 
 #article-two {
