@@ -1,6 +1,6 @@
 html, body {
 	margin: 0;
-	background: blue;
+	background: #004A88;
 	overflow-x: hidden;
 }
 
@@ -145,7 +145,9 @@ h4 {
 #footer {
 	border-top: solid 2px white;
 	background: blue;
-	background: linear-gradient(DarkBlue, blue);
+	background: linear-gradient(DarkBlue, #004A88);
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 #footer-container {
